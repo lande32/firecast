@@ -30,7 +30,7 @@
 			addSkill("Iniciativa", "desMod", false, false);
 			addSkill("Intimidação", "carMod", false, false);
 			addSkill("Intuição", "sabMod", false, false);
-			addSkill("Inestigação", "intMod", false, false);
+			addSkill("Investigação", "intMod", false, false);
 			addSkill("Jogatina", "carMod", false, false);
 			addSkill("Ladinagem", "desMod", true, true);
 			addSkill("Luta", "forMod", false, false);
@@ -42,7 +42,6 @@
 			addSkill("Pontaria", "desMod", false, false);
 			addSkill("Reflexos", "desMod", false, false);
 			addSkill("Religião", "sabMod", true, false);
-			addSkill("Percepção", "sabMod", false, false);
 			addSkill("Vontade", "sabMod", false, false);
 		end
 
