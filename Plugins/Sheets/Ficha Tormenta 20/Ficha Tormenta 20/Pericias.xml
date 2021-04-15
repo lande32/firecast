@@ -43,6 +43,7 @@
 			addSkill("Reflexos", "desMod", false, false);
 			addSkill("Religião", "sabMod", true, false);
 			addSkill("Percepção", "sabMod", false, false);
+			addSkill("Pilotagem", "desMod", false, false);
 			addSkill("Vontade", "sabMod", false, false);
 		end
 
